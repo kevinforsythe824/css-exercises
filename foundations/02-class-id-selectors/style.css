@@ -1,0 +1,19 @@
+.first-class {
+    background-color: #fe738e;
+    font-family: verdana, "dajavu sans", sans-serif;
+}
+
+#two {
+    color: #3431fe;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#another {
+    background-color: #31fe50;
+    font-size: 24px;
+    font: bold;
+}
